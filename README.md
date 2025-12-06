@@ -14,9 +14,9 @@ Here’s the link to the project video presentation: [Project Video Presentation
 
 
 ## Google Colab URL
-[The Final Colab](https://colab.research.google.com/drive/1S3uMoDOrrTEua8Dav6FBkKYURSka0kjd?usp=sharing)
-[Colab with Lung Segmentation](https://colab.research.google.com/drive/1wpYfpkjEBxP7zVqcPIOtQsP-4ou-UQa5?usp=sharing)
-[Previous Colab](https://colab.research.google.com/drive/1uKRHBBjwiCiuBZZHU6GOssS5nqRy-6nY?usp=sharing)
+- [The Final Colab](https://colab.research.google.com/drive/1S3uMoDOrrTEua8Dav6FBkKYURSka0kjd?usp=sharing)
+- [Colab with Lung Segmentation](https://colab.research.google.com/drive/1wpYfpkjEBxP7zVqcPIOtQsP-4ou-UQa5?usp=sharing)
+- [Previous Colab](https://colab.research.google.com/drive/1uKRHBBjwiCiuBZZHU6GOssS5nqRy-6nY?usp=sharing)
 
 
 ## Authors
