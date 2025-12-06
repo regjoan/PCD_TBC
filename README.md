@@ -12,7 +12,7 @@ Tuberculosis detection, chest X-ray imaging, lung segmentation, machine learning
 
 Here’s the link to the project video presentation:
 
-[Project Video Presentation]([insert_your_video_link_here](https://drive.google.com/file/d/1276Eeaxq0Y6mr494F7IqH8E2xeLmMQOe/view?usp=sharing))
+[Project Video Presentation](https://drive.google.com/file/d/1276Eeaxq0Y6mr494F7IqH8E2xeLmMQOe/view?usp=sharing)
 
 
 ## Authors
