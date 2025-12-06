@@ -10,9 +10,13 @@ Tuberculosis detection, chest X-ray imaging, lung segmentation, machine learning
 
 ## Video Presentation
 
-Here’s the link to the project video presentation:
+Here’s the link to the project video presentation: [Project Video Presentation](https://drive.google.com/file/d/1276Eeaxq0Y6mr494F7IqH8E2xeLmMQOe/view?usp=sharing)
 
-[Project Video Presentation](https://drive.google.com/file/d/1276Eeaxq0Y6mr494F7IqH8E2xeLmMQOe/view?usp=sharing)
+
+## Google Colab URL
+[The Final Colab](https://colab.research.google.com/drive/1S3uMoDOrrTEua8Dav6FBkKYURSka0kjd?usp=sharing)
+[Colab with Lung Segmentation](https://colab.research.google.com/drive/1wpYfpkjEBxP7zVqcPIOtQsP-4ou-UQa5?usp=sharing)
+[Previous Colab](https://colab.research.google.com/drive/1uKRHBBjwiCiuBZZHU6GOssS5nqRy-6nY?usp=sharing)
 
 
 ## Authors
